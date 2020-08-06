@@ -33,7 +33,7 @@ class practicingCSharp
             }
         }
     }
-    public static void Main(String[] args)
+    public static void notMain(String[] args)
     {
         threeHeads();
     }
