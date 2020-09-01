@@ -35,7 +35,7 @@ class Shape
     }
     class RectangleTester
     {
-        static void Main(string[] args)
+        static void notMain(string[] args)
         {
             Rectangle Rect = new Rectangle();
             int area;
